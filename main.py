@@ -1,6 +1,7 @@
 """Entry for make.fun: One Line of Earned Pride.
 
-A quiet, earned moment of pride, in one concrete scene.
+A quiet, earned moment of pride in one concrete scene: a long effort,
+finally landing, with the emotion kept understated.
 """
 import os
 
